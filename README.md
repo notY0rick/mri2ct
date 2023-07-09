@@ -13,3 +13,5 @@ Upon surveying several open-source models, I decided to train a pix2pix GAN to t
 and other implementation details. Note: the `pix2pix.ipynb` is the notebook that includes the data processing
 and handling and the actual training process of the pix2pix GAN. Overall, with very limited computing resources, the model
 was able to produce fairly decent sCT's that resembled the ground-truth CT's.
+
+Note: this project is no longer active as it has been submitted and graded.
